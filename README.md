@@ -37,7 +37,7 @@ An interactive web tool to help Idaho, Oregon, Utah, and Washington grain and sp
 index.html        # Landing page (host this on GitHub Pages)
 ```
 
-The Shiny app source code is maintained separately at [jung-keon.shinyapps.io/shiny_app](https://jung-keon.shinyapps.io/shiny_app/).
+The Shiny app source code is maintained separately at [jung-keon.shinyapps.io/ARC_PLC/](https://jung-keon.shinyapps.io/shiny_app/).
 
 ---
 
