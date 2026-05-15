@@ -2,7 +2,7 @@
 
 An interactive web tool to help Idaho, Oregon, Utah, and Washington grain and specialty crop producers compare **Agriculture Risk Coverage (ARC-CO)** and **Price Loss Coverage (PLC)** payments under the **One Big Beautiful Bill Act (OBBBA)** for the 2026–2027 marketing year.
 
-🔗 **Live Tool:** [https://jj03602.github.io/arcplc-tool](https://yourusername.github.io/arcplc-tool)
+🔗 **Live Tool:** [https://jj03602.github.io/ARC-CO-PLC-Farm-Bill-Decision-Tool/](https://yourusername.github.io/arcplc-tool)
 📊 **Shiny App:** [https://jung-keon.shinyapps.io/ARC_PLC/](https://jung-keon.shinyapps.io/shiny_app/)
 
 ---
@@ -59,7 +59,7 @@ Department of Agricultural Economics and Rural Sociology, University of Idaho
 ## Citation
 
 Jo, J.K. and X. Etienne. (2026). *ARC/PLC Farm Bill Decision Tool for Pacific Northwest Producers*.
-University of Idaho Extension. Available at: https://jj03602.github.io/arcplc-tool
+University of Idaho Extension. Available at: https://jj03602.github.io/ARC-CO-PLC-Farm-Bill-Decision-Tool/
 
 ---
 
